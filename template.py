@@ -1,4 +1,4 @@
-#PLEASE WRITE THE GITHUB URL BELOW!
+#https://github.com/mingwan21/oss-2.git
 #
 
 import sys
